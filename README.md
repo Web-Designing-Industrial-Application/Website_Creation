@@ -3,7 +3,7 @@ You are required to design a Personal Profile Website for a student/fresher usin
 The website should help the individual present their profile, skills, and achievements effectively for academic evaluation and career opportunities.
 # Case Study Requirements
 Design a single-page or multi-page profile website with the following sections:
-# Header Section
+** Header Section **
 Profile photo
 Full name
 Short professional tagline (e.g., “Aspiring Web Developer”)
@@ -15,27 +15,16 @@ Degree / Course
 Institution name
 Year of passing
 Percentage / CGPA
-
-Skills Section
-
+# Skills Section
 Technical skills (HTML, CSS, basic JavaScript, tools)
-
 Soft skills
-
 Use lists or progress bars
-
-Projects / Work Experience
-
+# Projects
 Project title
-
 Short description
-
 Technologies used
-
-Contact Information
-
+# Contact Information
 Email ID
-
 Phone number
 
 City / Location
