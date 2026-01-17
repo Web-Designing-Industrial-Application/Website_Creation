@@ -7,28 +7,26 @@ Design a single-page or multi-page profile website with the following sections:
 Profile photo
 Full name
 Short professional tagline (e.g., “Aspiring Web Developer”)
-# About Me
+**About Me**
 Brief self-introduction (100–150 words)
 Career objectives
-# Education Details
+**Education Details**
 Degree / Course
 Institution name
 Year of passing
 Percentage / CGPA
-# Skills Section
+**Skills Section**
 Technical skills (HTML, CSS, basic JavaScript, tools)
 Soft skills
 Use lists or progress bars
-# Projects
+**Projects**
 Project title
 Short description
 Technologies used
-# Contact Information
+**Contact Information**
 Email ID
 Phone number
-
 City / Location
-
 Social media links (LinkedIn, GitHub – optional)
 
 
